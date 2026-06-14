@@ -70,15 +70,15 @@ This project presents an end-to-end E-Commerce Analytics Dashboard built using P
 
 ## Executive Summary
 
-![Executive Summary](Dashboard_Screenshots/Executive_Summary/Executive_Summary.png)
+![Executive Summary](Dashboard_Screenshots/Executive_Summary.png)
 
 ## Customer Analytics
 
-![Customer Analytics](Dashboard_Screenshots/Customer_Analytics/Customer_Analytics.png)
+![Customer Analytics](Dashboard_Screenshots/Customer_Analytics.png)
 
 ## Sales Performance
 
-![Sales Performance](Dashboard_Screenshots/Sales_Performance/Sales_Performance.png)
+![Sales Performance](Dashboard_Screenshots/Sales_Performance.png)
 
 ---
 
